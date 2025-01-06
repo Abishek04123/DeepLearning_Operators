@@ -6,7 +6,7 @@ KernelSize = 3456
 BiasSize = 128
 Conv2D Output Size = 131072
 Saved layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/conv2d_3.txt
-Execution time: 90.8277 ms
+Execution time: 84.5803 ms
 =======================================================================
 Processing Layer: "batch_normalization_3" (BatchNormalization)
 Input size: 131072
@@ -16,13 +16,13 @@ Moving Mean size: 128
 Moving Variance size: 128
 BatchNorm Output Size = 131072
 Saved BatchNorm output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/batch_normalization_3.txt
-Execution time: 74.479 ms
+Execution time: 75.0543 ms
 =======================================================================
 Processing Layer: "max_pooling2d_3" (MaxPooling2D)
 InputSize = 131072
 MaxPool Output Size = 32768
 Saved MaxPool layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/max_pooling2d_3.txt
-Execution time: 22.0949 ms
+Execution time: 18.6665 ms
 =======================================================================
 Processing Layer: "conv2d_4" (Conv2D)
 InputSize = 32768
@@ -30,7 +30,7 @@ KernelSize = 409600
 BiasSize = 128
 Conv2D Output Size = 32768
 Saved layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/conv2d_4.txt
-Execution time: 405.497 ms
+Execution time: 416.339 ms
 =======================================================================
 Processing Layer: "batch_normalization_4" (BatchNormalization)
 Input size: 32768
@@ -40,13 +40,13 @@ Moving Mean size: 128
 Moving Variance size: 128
 BatchNorm Output Size = 32768
 Saved BatchNorm output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/batch_normalization_4.txt
-Execution time: 20.2633 ms
+Execution time: 17.4517 ms
 =======================================================================
 Processing Layer: "max_pooling2d_4" (MaxPooling2D)
 InputSize = 32768
 MaxPool Output Size = 8192
 Saved MaxPool layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/max_pooling2d_4.txt
-Execution time: 5.95357 ms
+Execution time: 6.32306 ms
 =======================================================================
 Processing Layer: "conv2d_5" (Conv2D)
 InputSize = 8192
@@ -54,7 +54,7 @@ KernelSize = 819200
 BiasSize = 256
 Conv2D Output Size = 16384
 Saved layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/conv2d_5.txt
-Execution time: 200.882 ms
+Execution time: 197.641 ms
 =======================================================================
 Processing Layer: "batch_normalization_5" (BatchNormalization)
 Input size: 16384
@@ -64,23 +64,23 @@ Moving Mean size: 256
 Moving Variance size: 256
 BatchNorm Output Size = 16384
 Saved BatchNorm output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/batch_normalization_5.txt
-Execution time: 10.0234 ms
+Execution time: 9.85187 ms
 =======================================================================
 Processing Layer: "max_pooling2d_5" (MaxPooling2D)
 InputSize = 16384
 MaxPool Output Size = 4096
 Saved MaxPool layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/max_pooling2d_5.txt
-Execution time: 3.93641 ms
+Execution time: 2.66625 ms
 =======================================================================
 Processing Layer: "dense_2" (Dense)
 Dense Output Size = 384
 Saved Dense layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/dense_2.txt
-Execution time: 2.24697 ms
+Execution time: 1.82659 ms
 =======================================================================
 Processing Layer: "dense_3" (Dense)
 Dense Output Size = 10
 Saved Dense layer output to F:/MultiCoreWare/C++ Application/Project_Root/data/cpp_layer_outputs/dense_3.txt
-Execution time: 0.49148 ms
+Execution time: 0.43469 ms
 =======================================================================
 Max value: 0.669592 at index 3
 Predicted Class: cat
