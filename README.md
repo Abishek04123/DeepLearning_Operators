@@ -26,6 +26,10 @@ Contains the **input**, **output**, **weights** and **reference** files for each
 
 Contains the log files for **inferencing**, **unit testing** and **model testing**.
 
+### **src**
+
+Contains the **main** source file and a **.py file** for testing purposes.
+
 ### **utilities**
 
 Contains the source code and headers for the utils file which facilitates **file handling** and **image preprocessing**. The **src** folder contains the source files and the **include** folder contains the header files.
