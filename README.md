@@ -37,3 +37,11 @@ Ensures unnecessary files (e.g., .exe, .lib, .vscode) are not tracked in the Git
 ### **CMakeLists.txt**
 
 A configuration file used by CMake to define how the project should be built, including source files, dependencies, compiler options, and build targets, ensuring platform-independent and scalable builds.
+
+## **Environment**
+
+**Operating System**: Windows 11
+**Compiler**: MSVC Compiler v.19.42.34435
+**Cmake**: v.3.31.3
+**C++**: C++14
+**Git**: v.2.41.0.windows.3
