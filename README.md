@@ -1,0 +1,3 @@
+Project Overview
+
+This project implements the core functionality of deep-learning layers using C++. It simulates a deep-learning model by executing each layer sequentially, based on a configuration file. Each layer is implemented with its respective floating-point operations and tested against pre-defined inputs. The application generates log files with execution details and validates the outputs against reference results.
