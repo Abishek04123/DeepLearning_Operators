@@ -10,13 +10,13 @@ This project implements the core functionality of deep-learning layers using C++
 
 Contains the source code and headers for implementing deep learning operators like convolution, batch normalization, max pooling and dense. The **src** folder contains the source files and the **include** folder contains the header files.
 
-### **build**
-
-Contains compiled binaries, object files, Makefiles, and CMake-generated configuration files.
-
 ### **Test_Operators**
 
 Contains the source code and headers for unit and model testing. The **src** folder contains the source files and the **include** folder contains the header files.
+
+### **build**
+
+Contains compiled binaries, object files, Makefiles, and CMake-generated configuration files.
 
 ### **configs**
 
