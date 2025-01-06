@@ -41,7 +41,11 @@ A configuration file used by CMake to define how the project should be built, in
 ## **Environment**
 
 **Operating System**: Windows 11
+
 **Compiler**: MSVC Compiler v.19.42.34435
+
 **Cmake**: v.3.31.3
+
 **C++**: C++14
+
 **Git**: v.2.41.0.windows.3
